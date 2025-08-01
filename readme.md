@@ -5,7 +5,7 @@ By editing the folder that is used by Brave's update service
 
 ---
 
-## 🔧 What Does the two batch Script Do?
+## 🔧 What Does the two batch Scripts Do?
 
 - Automatically requests **Administrator privileges**
 - disables Brave`s Auto-Updates or Re-enables it.
