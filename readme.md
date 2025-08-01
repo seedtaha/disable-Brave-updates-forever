@@ -16,7 +16,7 @@ By editing the folder that is used by Brave's update service
 
 ## 🚀 How to Use
 
-1. **Download** the `.zip` file from [HERE](https://github.com/seedtaha/disable-Brave-updates-forever)
+1. **Download** the `.zip` file from [HERE](https://github.com/seedtaha/disable-Brave-updates-forever/releases/tag/v1.0)
 2. Extract it.
 3. Double-click the `.bat` file and allow to give **Administrator rights** when asks for.
 4. Wait a second.
