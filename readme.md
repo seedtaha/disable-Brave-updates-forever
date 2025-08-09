@@ -5,7 +5,7 @@ By editing the folder that is used by Brave's update service
 
 ---
 
-## 🔧 What Does the two batch Scripts Do?
+##  What Does the two batch Scripts Do?
 
 - Automatically requests **Administrator privileges**
 - disables Brave`s Auto-Updates or Re-enables it.
@@ -14,7 +14,7 @@ By editing the folder that is used by Brave's update service
 
 
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Download** the `.zip` file from [HERE](https://github.com/seedtaha/disable-Brave-updates-forever/releases/tag/v1.0)
 2. Extract it.
@@ -26,25 +26,25 @@ By editing the folder that is used by Brave's update service
 
 ---
 
-## ✅ Tested On
+##  Tested On
 
 - Windows 10 (x64)
 - Windows 11 (x64)
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This script is provided **as-is** for educational and administrative purposes.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 https://www.facebook.com/seed.103
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
